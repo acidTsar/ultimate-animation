@@ -1,0 +1,9 @@
+@import './style/fonts';
+@import './style/reset';
+@import './style/vars';
+@import './blocks/index';
+
+body {
+  font-family: 'OpenSans';
+  overflow-x: hidden;
+}
